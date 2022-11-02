@@ -1,0 +1,19 @@
+{
+  "name": "votecard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve src/",
+    "build": "node scripts/build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "serve": "^14.0.1",
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.17.4"
+  }
+}
